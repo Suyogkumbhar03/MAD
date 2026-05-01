@@ -64,5 +64,4 @@ Open the project in **Android Studio** and click the **Run** button (or use `Shi
 | :---: | :---: | :---: |
 | ![Home](https://via.placeholder.com/200x400?text=Home+Feed) | ![Search](https://via.placeholder.com/200x400?text=Search+Screen) | ![Bookmarks](https://via.placeholder.com/200x400?text=Bookmarks) |
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
